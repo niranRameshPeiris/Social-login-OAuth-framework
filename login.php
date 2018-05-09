@@ -55,14 +55,14 @@
                 <div class="col-sm-1">
                   <!-- facebook login -->
                   <!-- ask permission to get public profile details,email,user posts and permission to post on the wall -->
-                  <a href="https://graph.facebook.com/oauth/authorize?response_type= token&client_id=314512002409235&redirect_uri=https://www.assignment03.com:444/profile.php&scope=email%20public_profile%20user_posts%20publish_actions" class="btn btn-primary" style="border-radius: 50%;color: white;width: 70px;height: 70px;font-size: 40px">f
+                  <a href="https://graph.facebook.com/oauth/authorize?response_type= token&client_id=############&redirect_uri=https://www.assignment03.com:###/profile.php&scope=email%20public_profile%20user_posts%20publish_actions" class="btn btn-primary" style="border-radius: 50%;color: white;width: 70px;height: 70px;font-size: 40px">f
                   </a>
                   <!--  -->
                 </div>
                 <div class="col-sm-1">
                   <!-- google login -->
                   <!-- ask permission to get email and profile details -->
-                  <a href="https://accounts.google.com/o/oauth2/auth?redirect_uri=https://www.assignment03.com:444/profile.php&response_type=code&client_id=986922728150-d4m8d1kglmttju1l4afqn3vjgqj0e7qu.apps.googleusercontent.com&scope=email profile&approval_prompt=force&access_type=offline" class="btn btn-danger" style="border-radius: 50%;color: white;width: 70px;height: 70px;font-size: 40px;">G
+                  <a href="https://accounts.google.com/o/oauth2/auth?redirect_uri=https://www.assignment03.com:###/profile.php&response_type=code&client_id=####################################&scope=email profile&approval_prompt=force&access_type=offline" class="btn btn-danger" style="border-radius: 50%;color: white;width: 70px;height: 70px;font-size: 40px;">G
                   </a>
                   <!--  -->
                 </div>
