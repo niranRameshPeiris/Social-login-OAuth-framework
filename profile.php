@@ -210,9 +210,9 @@
                                             //derived code from the url
                                             $ur=str_replace("/profile.php?code=", "",urldecode($_SERVER['REQUEST_URI']) );
                                             //set the variable to send post request to the endpoint to retrive access token 
-                                            $postfields = array('code' => $ur, 'client_id' => '986922728150-d4m8d1kglmttju1l4afqn3vjgqj0e7qu.apps.googleusercontent.com', 
-                                                        'client_secret' => 'vWdaNrazvOpwnSHIm1BJSQ2b', 
-                                                        'redirect_uri' => 'https://www.assignment03.com:444/profile.php',
+                                            $postfields = array('code' => $ur, 'client_id' => '####################', 
+                                                        'client_secret' => '#################', 
+                                                        'redirect_uri' => 'https://www.assignment03.com:#/profile.php',
                                                         'grant_type' => 'authorization_code'
                                                     );
                                             $ch = curl_init();
